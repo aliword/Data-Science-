@@ -52,7 +52,7 @@ plt.plot([1,2,3,4],[3,4,1,2])
 
 
 
-![png](output_8_1.png)
+![png](/images/output_8_1.png)
 
 
 # 三、figure的组成
@@ -103,7 +103,7 @@ ax.legend()
 
 
 
-![png](output_14_1.png)
+![png](/images/output_14_1.png)
 
 
 而如果采用**第二种绘图接口**，绘制同样的图，代码是这样的：
@@ -135,7 +135,7 @@ plt.legend()
 
 
 
-![png](output_16_1.png)
+![png](images/output_16_1.png)
 
 
 **参考资料**
