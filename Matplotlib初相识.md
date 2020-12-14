@@ -34,7 +34,7 @@ ax.plot([1,2,3,4],[3,4,1,2])
 
 
 
-![png](./images/output_6_1.png)
+![png](https://github.com/aliword/Data-Science-visualization/blob/main/images/output_6_1.png)
 
 
 和MATLAB命令类似，你还可以通过一种更简单的方式绘制图像，matplotlib.pyplot方法能够直接在当前axes上绘制图像，如果用户未指定axes，matplotlib会帮你自动创建一个。所以上面的例子也可以简化为以下这一行代码。
