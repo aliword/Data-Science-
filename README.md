@@ -1,2 +1,2 @@
 # Data-Science-visualization
-data science学习记录，数学和代码学习
+数据可视化，matplotlib可视化库的使用
